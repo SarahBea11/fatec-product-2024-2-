@@ -1,0 +1,22 @@
+{
+  "products":[
+     {
+    "id"      :1,
+    "name"    :"Computador i5",
+    "price"   : 5000,
+    "category":"Eletronicos"
+  },
+   {
+    "id"      :2,
+    "name"    :"Computador i7",
+    "price"   : 5000,
+    "category":"Eletronicos"
+  },
+   {
+    "id"      :3,
+    "name"    :"Computador i5",
+    "price"   : 5000,
+    "category":"Eletronicos"
+
+   }]
+  }
